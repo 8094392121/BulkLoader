@@ -3,5 +3,5 @@ TgCrypto
 pyromod
 yt-dlp
 hachoir
-python-dotenv
+pip install -r requirements.txt
 python-3.12.1
