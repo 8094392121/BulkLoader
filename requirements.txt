@@ -4,3 +4,4 @@ pyromod
 yt-dlp
 hachoir
 python-dotenv
+python-3.12.1
